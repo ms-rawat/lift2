@@ -1,0 +1,52 @@
+
+.topmost{
+    transform: translate(0, -1130px);
+  
+   
+  
+  }
+  
+  .atGround{
+    transform: translate( 0, -349px);
+  
+  
+    
+  }
+  
+  .twoStep{
+    transition:transform 10s ease-in-out ;
+  
+  }
+  
+  
+  
+  .oneStep{
+    transition:transform 5s ease-in-out ;
+  
+  }
+  
+  .elevatoratlevel1{
+    transform: translate(0,-741px);
+  
+  }
+
+  
+.Atlevel1Upbutton, .Atlevel0Upbutton{
+    rotate: 180deg;
+    
+}
+img{
+    width: 200px;
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    margin-left: -25rem;
+}
+button :hover{
+    border: solid greenyellow 3px;
+    border-radius: 50%;
+}
