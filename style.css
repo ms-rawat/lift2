@@ -39,14 +39,16 @@ img{
     width: 200px;
 }
 
-div{
-    text-align: center;
-}
 
-button{
-    margin-left: -25rem;
-}
+
+
 button :hover{
     border: solid greenyellow 3px;
     border-radius: 50%;
+}
+.Button{
+  margin-left: -10rem   ;
+}
+h4{
+  text-align: center;
 }
